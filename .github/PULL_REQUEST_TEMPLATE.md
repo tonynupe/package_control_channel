@@ -3,22 +3,23 @@ Please have patience, we usually need a few weeks to get around to reviewing you
 To help us do so, please provide some information about your package:
 -->
 
-- [ ] I'm the package's author and/or maintainer.
-- [ ] I have have read [the docs][1].
-- [ ] I have tagged a release with a [semver][2] version number.
-- [ ] My package repo has a description and a README describing what it's for and how to use it.
-- [ ] My package doesn't add context menu entries. *
+- [X] I'm the package's author and/or maintainer.
+- [X] I have have read [the docs][1].
+- [X] I have tagged a release with a [semver][2] version number.
+- [X] My package repo has a description and a README describing what it's for and how to use it.
+- [X] My package doesn't add context menu entries. *
 - [ ] My package doesn't add key bindings. **
-- [ ] Any commands are available via the command palette.
-- [ ] Preferences and keybindings (if any) are listed in the menu and the command palette, and open in split view.
-- [ ] If my package is a syntax it doesn't also add a color scheme. ***
+- [X] Any commands are available via the command palette.
+- [X] Preferences and keybindings (if any) are listed in the menu and the command palette, and open in split view.
+- [X] If my package is a syntax it doesn't also add a color scheme. ***
 - [ ] I use [.gitattributes][3] to exclude files from the package: images, test files, sublime-project/workspace.
 
 [1]: https://docs.sublimetext.io/guide/package-control/submitting.html
 [2]: https://semver.org
 [3]: https://www.git-scm.com/docs/gitattributes#_export_ignore
 
-My package is ...
+My package is ... a syntaxes highlighter with a python script for manual highligths (similar to notepad++) and ease of navigation by the users in log reading scenarios. 
+My package is a combination of a syntax package with keybindings for mouse control for ease of use of bookmarks in sublime text. 
 
 There are no packages like it in Package Control.
 <!-- OR -->
